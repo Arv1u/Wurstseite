@@ -76,7 +76,7 @@ body {
     border-radius: 7px;
 }
 
-.input:focus { background-color: gray; border: 2px solid gray; outline: none; }
+.input:focus { background-color: rgb(201, 199, 199); border: 2px solid gray; outline: none;  }
 
 .reset {
     width: 220px;
